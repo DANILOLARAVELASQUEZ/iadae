@@ -1,0 +1,7 @@
+{
+  "name": "mifront",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
